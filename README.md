@@ -56,11 +56,16 @@ Developed interactive React.js dashboards consuming FastAPI/DRF backend APIs
 AI-Powered Enterprise Compliance Platform (Graph RAG) (Current)
 
 Building an end-to-end AI compliance platform for regulatory gap analysis, obligation tracking, and continuous risk monitoring
+
 Designed a Graph RAG architecture connecting regulations, obligations, controls, risks, and business assets as a queryable knowledge graph for multi-hop reasoning
 Built a Hybrid RAG retrieval pipeline combining dense vector embeddings with sparse BM25 keyword search, with reranking to improve precision
+
 Integrated LLMs for compliance reasoning and gap analysis, producing grounded, citation-backed responses
+
 Implemented agentic AI workflows using LangGraph to orchestrate gap analysis, risk scoring, audit tracing, and remediation planning
-Tech: Graph RAG · Hybrid RAG · LLMs · LangGraph · FastAPI · Django REST Framework · PostgreSQL · Knowledge Graphs · Embeddings · BM25
+
+Tech: 
+Graph RAG · Hybrid RAG · LLMs · LangGraph · FastAPI · Django REST Framework · PostgreSQL · Knowledge Graphs · Embeddings · BM25
 
 Document Management and Verification System
 
