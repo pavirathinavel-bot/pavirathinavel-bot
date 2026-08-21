@@ -113,4 +113,5 @@ Graphormer · PyTorch · DGL · Graph Neural Networks · Graph Analytics · Fast
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shalini-r-649114320)
+[![Naukri](https://img.shields.io/badge/Naukri-FF7555?style=for-the-badge&logo=naukri&logoColor=white)](https://www.naukri.com/mnjuser/profile)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavirathinavel@gmail.com)
