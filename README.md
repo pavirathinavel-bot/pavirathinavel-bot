@@ -57,7 +57,7 @@ Developed interactive React.js dashboards consuming FastAPI/DRF backend APIs.
 
 📌 Key Projects
 
-AI-Powered Enterprise Compliance Platform (Graph RAG) (Current)
+🛡️ AI-Powered Enterprise Compliance Platform (Graph RAG) (Current)
 
 Building an end-to-end AI compliance platform for regulatory gap analysis, obligation tracking, and continuous risk monitoring.
 
@@ -71,7 +71,7 @@ Implemented agentic AI workflows using LangGraph to orchestrate gap analysis, ri
 Tech: 
 Graph RAG · Hybrid RAG · LLMs · LangGraph · FastAPI · Django REST Framework · PostgreSQL · Knowledge Graphs · Embeddings · BM25.
 
-Document Management and Verification System
+📄 Document Management and Verification System
 
 Designed REST APIs for secure document submission and verification during employee/vendor onboarding.
 
@@ -84,7 +84,7 @@ Implemented real-time status tracking and automated email notifications, with au
 Tech: 
 Django REST Framework · REST APIs · PostgreSQL · JWT Authentication · Cloud Storage · Email Notification Services.
 
-Onboarding Workflow and Collaboration System
+🧭 Onboarding Workflow and Collaboration System
 
 Developed APIs to manage end-to-end employee onboarding activities, task checklists, and training progress tracking.
 
@@ -97,7 +97,7 @@ Built onboarding progress reporting and notification workflows for HR and engine
 Tech: 
 Django REST Framework · FastAPI · REST APIs · PostgreSQL · Role-Based Access Control · Notification Systems.
 
-Graph-Based Supply Chain Risk Analyzer
+🚚 Graph-Based Supply Chain Risk Analyzer
 
 Built an AI-driven system modeling a company's supply chain as a graph (suppliers, distributors, logistics hubs, routes) to identify risks like over-dependency and predicted delays.
 
