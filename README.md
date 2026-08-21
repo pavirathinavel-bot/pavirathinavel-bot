@@ -43,46 +43,54 @@ I'm focused on backend and GenAI engineering roles where I can build systems tha
 ## 💼 Experience
 
 **Backend Developer** @ Binary Bot *(June 2023 – Present)*
-- Designed and built REST APIs and backend services using Django, DRF, and FastAPI across multiple enterprise product initiatives
-- Architected Graph RAG and Hybrid RAG pipelines connecting domain entities as knowledge graphs
-- Built agentic AI workflows using LangGraph for automated gap analysis, risk scoring, and reasoning tasks
-- Applied Graphormer and graph analytics for predictive risk classification
-- Implemented JWT-based authentication, RBAC, and audit logging across backend services
-- Developed interactive React.js dashboards consuming FastAPI/DRF backend APIs
+- **Built scalable REST APIs and backend services** using Django, DRF, and FastAPI across multiple enterprise product initiatives
+- **Architected Graph RAG & Hybrid RAG pipelines**, connecting domain entities as knowledge graphs to improve retrieval accuracy
+- **Automated risk & compliance reasoning** through LangGraph-based agentic AI workflows for gap analysis and scoring
+- **Improved risk prediction accuracy** by applying Graphormer and graph analytics for predictive classification
+- **Strengthened backend security** with JWT-based authentication, RBAC, and audit logging across services
+- **Delivered real-time visibility** through interactive React.js dashboards consuming FastAPI/DRF APIs
 
 ---
 
 ## 📌 Key Projects
 
-🛡️ **AI-Powered Enterprise Compliance Platform (Graph RAG)** *(Current)*
-- Building an end-to-end AI compliance platform for regulatory gap analysis, obligation tracking, and continuous risk monitoring
-- Designed a Graph RAG architecture connecting regulations, obligations, controls, risks, and business assets as a queryable knowledge graph for multi-hop reasoning
-- Built a Hybrid RAG retrieval pipeline combining dense vector embeddings with sparse BM25 keyword search, with reranking to improve precision
-- Integrated LLMs for compliance reasoning and gap analysis, producing grounded, citation-backed responses
-- Implemented agentic AI workflows using LangGraph to orchestrate gap analysis, risk scoring, audit tracing, and remediation planning
-- **Tech:** Graph RAG · Hybrid RAG · LLMs · LangGraph · FastAPI · Django REST Framework · PostgreSQL · Knowledge Graphs · Embeddings · BM25
+### 🛡️ AI-Powered Enterprise Compliance Platform (Graph RAG) `Current`
+- **Cut manual compliance review effort** by building an end-to-end Graph RAG platform for regulatory gap analysis and continuous risk monitoring
+- **Enabled multi-hop reasoning** with a knowledge graph connecting regulations, obligations, controls, risks, and business assets
+- **Improved retrieval precision** via a Hybrid RAG pipeline combining dense vector embeddings with sparse BM25 keyword search and reranking
+- **Delivered trustworthy, citation-backed answers** by integrating LLMs for grounded compliance reasoning
+- **Automated end-to-end workflows** — gap analysis, risk scoring, audit tracing, and remediation planning — using LangGraph
 
-📄 **Document Management and Verification System**
-- Designed REST APIs for secure document submission and verification during employee/vendor onboarding
-- Implemented document upload, validation, and secure cloud storage with access control and file-type/size checks
-- Built a verification workflow supporting Pending, Approved, and Rejected statuses with configurable approval rules
-- Implemented real-time status tracking and automated email notifications, with audit logging for traceability
-- **Tech:** Django REST Framework · REST APIs · PostgreSQL · JWT Authentication · Cloud Storage · Email Notification Services
+![Graph RAG](https://img.shields.io/badge/Graph%20RAG-6E56CF?style=flat-square) ![Hybrid RAG](https://img.shields.io/badge/Hybrid%20RAG-6E56CF?style=flat-square) ![LLMs](https://img.shields.io/badge/LLMs-FF6F00?style=flat-square) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![DRF](https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=flat-square&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Knowledge Graphs](https://img.shields.io/badge/Knowledge%20Graphs-2E7D32?style=flat-square) ![Embeddings](https://img.shields.io/badge/Embeddings-8D6E63?style=flat-square) ![BM25](https://img.shields.io/badge/BM25-455A64?style=flat-square)
 
-🧭 **Onboarding Workflow and Collaboration System**
-- Developed APIs to manage end-to-end employee onboarding activities, task checklists, and training progress tracking
-- Implemented automated dev-environment setup and codebase access provisioning workflows for new employees
-- Added task assignment, completion tracking, and deadline reminders, plus structured feedback and team communication features
-- Built onboarding progress reporting and notification workflows for HR and engineering teams
-- **Tech:** Django REST Framework · FastAPI · REST APIs · PostgreSQL · Role-Based Access Control · Notification Systems
+---
 
-🚚 **Graph-Based Supply Chain Risk Analyzer**
-- Built an AI-driven system modeling a company's supply chain as a graph (suppliers, distributors, logistics hubs, routes) to identify risks like over-dependency and predicted delays
-- Designed graph-based supplier dependency analysis using graph analytics to capture indirect relationships between suppliers, components, and logistics routes
-- Trained a Graphormer-based risk prediction model on node/edge features (capacity, reliability, transit time, disruption index) to classify suppliers into Low/Medium/High/Critical risk tiers
-- Built a FastAPI microservice (train/predict/graph endpoints) and a React + D3.js dashboard for interactive network visualization and automated risk report export
-- **Tech:** Graphormer · PyTorch · DGL · Graph Neural Networks · Graph Analytics · FastAPI · React.js · D3.js · PostgreSQL · Docker
+### 📄 Document Management and Verification System
+- **Digitized document verification** for employee/vendor onboarding with secure REST APIs and cloud storage
+- **Reduced onboarding friction** with a configurable Pending/Approved/Rejected workflow
+- **Improved traceability** with real-time status tracking, automated email notifications, and audit logging
 
+![DRF](https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=flat-square&logo=django&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-00B8A9?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT%20Authentication-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Cloud Storage](https://img.shields.io/badge/Cloud%20Storage-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Email Notifications](https://img.shields.io/badge/Email%20Notification%20Services-D14836?style=flat-square&logo=gmail&logoColor=white)
+
+---
+
+### 🧭 Onboarding Workflow and Collaboration System
+- **Streamlined new-hire ramp-up** with APIs managing onboarding checklists and training progress
+- **Automated environment setup** and codebase access provisioning for new employees
+- **Boosted manager visibility** with task assignment, deadline reminders, and structured feedback tools
+- **Gave HR & engineering real-time reporting** into onboarding progress
+
+![DRF](https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-00B8A9?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![RBAC](https://img.shields.io/badge/Role--Based%20Access%20Control-6A1B9A?style=flat-square) ![Notification Systems](https://img.shields.io/badge/Notification%20Systems-F57C00?style=flat-square)
+
+---
+
+### 🚚 Graph-Based Supply Chain Risk Analyzer
+- **Exposed hidden supply-chain risk** by modeling suppliers, distributors, and routes as a dependency graph
+- **Predicted disruption risk early** with a Graphormer-based model trained on capacity, reliability, and transit-time features
+- **Classified suppliers into risk tiers** (Low/Medium/High/Critical) for faster decision-making
+- **Enabled interactive risk exploration** via a FastAPI microservice + React/D3.js dashboard with automated report export
+
+![Graphormer](https://img.shields.io/badge/Graphormer-6E56CF?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![DGL](https://img.shields.io/badge/DGL-3E4C59?style=flat-square) ![GNN](https://img.shields.io/badge/Graph%20Neural%20Networks-2E7D32?style=flat-square) ![Graph Analytics](https://img.shields.io/badge/Graph%20Analytics-00838F?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black) ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ## 🎓 Education
 
 Bachelor of Engineering (BE) – Electronics and Communication Engineering (ECE) 
