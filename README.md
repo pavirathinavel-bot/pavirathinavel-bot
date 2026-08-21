@@ -93,9 +93,9 @@ I'm focused on backend and GenAI engineering roles where I can build systems tha
 ![Graphormer](https://img.shields.io/badge/Graphormer-6E56CF?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![DGL](https://img.shields.io/badge/DGL-3E4C59?style=flat-square) ![GNN](https://img.shields.io/badge/Graph%20Neural%20Networks-2E7D32?style=flat-square) ![Graph Analytics](https://img.shields.io/badge/Graph%20Analytics-00838F?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black) ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ## 🎓 Education
 
-Bachelor of Engineering (BE) – Electronics and Communication Engineering (ECE) 
-
 Narasu's Sarathy Institute of Technology, Salem
+
+Bachelor of Engineering (BE) – Electronics and Communication Engineering (ECE) 
 
 ## 🌐 Languages
 English (Professional),
