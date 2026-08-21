@@ -86,11 +86,12 @@ I'm focused on backend and GenAI engineering roles where I can build systems tha
 ## 🎓 Education
 
 Bachelor of Engineering (BE) – Electronics and Communication Engineering (ECE) 
+
 Narasu's Sarathy Institute of Technology, Salem
 
 ## 🌐 Languages
-English (Professional)
-Tamil (Native)
+English (Professional),
+ Tamil (Native)
 
 ## 📫 Connect With Me
 
