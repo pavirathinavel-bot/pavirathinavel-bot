@@ -50,6 +50,7 @@ Built agentic AI workflows using LangGraph for automated gap analysis, risk scor
 Applied Graphormer and graph analytics for predictive risk classification
 Implemented JWT-based authentication, RBAC, and audit logging across backend services
 Developed interactive React.js dashboards consuming FastAPI/DRF backend APIs
+
 📌 Key Projects
 
 AI-Powered Enterprise Compliance Platform (Graph RAG) (Current)
