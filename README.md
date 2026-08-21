@@ -1,8 +1,18 @@
+<div align="center">
+
 # Hi, I'm Shalini R 👋
 
-**Python Backend Developer & GenAI Engineer | LLMs | RAG | Django | FastAPI | REST APIs | 3+ Years Experience | Immediate Joiner
+**Python Backend Developer & GenAI Engineer | LLMs | RAG | Django | FastAPI | REST APIs | 3+ Years Experience | Immediate Joiner**
 
-📍 Salem, Tamil Nadu   
+📍 Salem, Tamil Nadu
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shalini-r-649114320)
+[![Naukri](https://img.shields.io/badge/Naukri-FF7555?style=for-the-badge&logo=naukri&logoColor=white)](https://www.naukri.com/mnjuser/profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavirathinavel@gmail.com)
+
+</div>
+
+--- 
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shalini-r-649114320)   [![Naukri](https://img.shields.io/badge/Naukri-FF7555?style=for-the-badge&logo=naukri&logoColor=white)](https://www.naukri.com/mnjuser/profile)   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavirathinavel@gmail.com)
 
