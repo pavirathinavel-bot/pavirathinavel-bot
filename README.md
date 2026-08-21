@@ -83,6 +83,15 @@ I'm focused on backend and GenAI engineering roles where I can build systems tha
 - Built a FastAPI microservice (train/predict/graph endpoints) and a React + D3.js dashboard for interactive network visualization and automated risk report export
 - **Tech:** Graphormer · PyTorch · DGL · Graph Neural Networks · Graph Analytics · FastAPI · React.js · D3.js · PostgreSQL · Docker
 
+## 🎓 Education
+
+Bachelor of Engineering (BE) – Electronics and Communication Engineering (ECE) 
+Narasu's Sarathy Institute of Technology, Salem
+
+## 🌐 Languages
+English (Professional)
+Tamil (Native)
+
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shalini-r-649114320)
