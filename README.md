@@ -14,7 +14,7 @@
   
 ## 🚀 About Me
 
-I'm a Python Backend Developer with 3+ years of experience building scalable backend systems and applying **Generative AI (GenAI), Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG)** to real production use cases. I work primarily with **Django, Django REST Framework, and FastAPI** to design REST APIs, backend architectures, and database-driven systems — with a strong focus on clean, maintainable, production-ready code. I also work with **Docker** for containerization and **Redis** for caching and performance optimization in backend systems.
+I'm a Python Backend Developer with 3.5 years of experience building scalable backend systems and applying **Generative AI (GenAI), Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG)** to real production use cases. I work primarily with **Django, Django REST Framework, and FastAPI** to design REST APIs, backend architectures, and database-driven systems — with a strong focus on clean, maintainable, production-ready code. I also work with **Docker** for containerization and **Redis** for caching and performance optimization in backend systems.
 
 Alongside core backend engineering, I've built hands-on experience with:
 - 🔗 **Graph RAG & Hybrid RAG pipelines** — combining dense vector search with keyword-based retrieval
@@ -48,7 +48,7 @@ I'm focused on backend and GenAI engineering roles where I can build systems tha
 
 ## 💼 Experience
 
-**Backend Developer** @ Binary Bot *(June 2023 – Present)*
+**Backend Developer** @ Binary Bot *(March 2023 – Present)*
 - **Built scalable REST APIs and backend services** using Django, DRF, and FastAPI across multiple enterprise product initiatives
 - **Architected Graph RAG & Hybrid RAG pipelines**, connecting domain entities as knowledge graphs to improve retrieval accuracy
 - **Automated risk & compliance reasoning** through LangGraph-based agentic AI workflows for gap analysis and scoring
