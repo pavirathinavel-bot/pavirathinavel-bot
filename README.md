@@ -2,7 +2,7 @@
 
 # Hi, I'm Shalini R 👋
 
-**Python Backend Developer & GenAI Engineer | LLMs | RAG | Django | FastAPI | REST APIs | 3+ Years Experience | Immediate Joiner | 📍 Salem, Tamil Nadu**
+**Python Backend Developer & GenAI Engineer | LLMs | RAG | Django | FastAPI | REST APIs | 3 Years Experience | Immediate Joiner | 📍 Salem, Tamil Nadu**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shalini-r-649114320)
 [![Naukri](https://img.shields.io/badge/Naukri-FF7555?style=for-the-badge&logo=naukri&logoColor=white)](https://www.naukri.com/mnjuser/profile)
@@ -14,7 +14,7 @@
   
 ## 🚀 About Me
 
-I'm a Python Backend Developer with 3.5 years of experience building scalable backend systems and applying **Generative AI (GenAI), Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG)** to real production use cases. I work primarily with **Django, Django REST Framework, and FastAPI** to design REST APIs, backend architectures, and database-driven systems — with a strong focus on clean, maintainable, production-ready code. I also work with **Docker** for containerization and **Redis** for caching and performance optimization in backend systems.
+I'm a Python Backend Developer with 3 years of experience building scalable backend systems and applying **Generative AI (GenAI), Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG)** to real production use cases. I work primarily with **Django, Django REST Framework, and FastAPI** to design REST APIs, backend architectures, and database-driven systems — with a strong focus on clean, maintainable, production-ready code. I also work with **Docker** for containerization and **Redis** for caching and performance optimization in backend systems.
 
 Alongside core backend engineering, I've built hands-on experience with:
 - 🔗 **Graph RAG & Hybrid RAG pipelines** — combining dense vector search with keyword-based retrieval
